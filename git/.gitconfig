@@ -1,0 +1,7 @@
+[user]
+    name = Jeff Weber
+    email = jweber@cofront.net
+[credential]
+    helper = cache --timeout=7200
+[color]
+    ui = auto
