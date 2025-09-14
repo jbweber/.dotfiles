@@ -3,6 +3,7 @@
 sudo dnf install \
 	git \
 	jq \
+	just \
 	sqlite \
 	stow \
 	tmux \
